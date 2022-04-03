@@ -3,3 +3,5 @@ mprCopyCropBox/bin
 .vs
 build/bin
 build/obj
+.nuke/temp
+.nuke/temp
